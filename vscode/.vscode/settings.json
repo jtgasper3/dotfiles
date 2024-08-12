@@ -1,0 +1,29 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.autoDetectColorScheme": true,
+    "markdown-pdf.plantumlOpenMarker": "```plantuml",
+    "markdown-pdf.plantumlCloseMarker": "```",
+    "cSpell.userWords": [
+        "Haibei",
+        "sailpoint",
+        "Satish",
+        "Talend"
+    ],
+    "markdown-pdf.format": "Letter",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 2,
+    "window.commandCenter": false,
+    "docker.commands.attach": "${containerCommand} exec -it ${containerId} ${shellCommand}",
+    "continue.telemetryEnabled": false
+}

@@ -1,0 +1,6 @@
+brew 'ssh-copy-id' # copy ssh keys to remote machines
+
+cask 'balenaetcher' # flash OS images to SD cards & USB drives
+cask 'raspberry-pi-imager'
+cask 'sdformatter' # format SD cards
+cask 'secretive' # ssh keys in TPM

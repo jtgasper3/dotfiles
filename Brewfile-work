@@ -1,0 +1,12 @@
+brew 'awscli'
+brew 'golang'
+brew 'gradle'
+brew 'groovy'
+brew 'maven'
+brew 'nats-server'
+
+cask 'apache-directory-studio'
+cask 'postman'
+cask 'powershell'
+
+mas 'Microsoft Remote Desktop', id: 1295203466

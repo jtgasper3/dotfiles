@@ -2,6 +2,7 @@
 
 alias dotfiles='cd ~/.dotfiles'
 alias grep='grep --color=auto'
+eval $(thefuck --alias crap)
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"

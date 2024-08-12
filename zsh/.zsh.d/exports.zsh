@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Encoding stuff for the terminal
 export LANG=en_US.UTF-8

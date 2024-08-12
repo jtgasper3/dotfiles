@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Generate a random password of a given length, copy to clipboard
 genpass(){
     length="${1:-16}"

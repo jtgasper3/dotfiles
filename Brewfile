@@ -11,6 +11,7 @@ brew 'pinentry-mac' # tool that allow GnuPG to read passphrases
 brew 'pnpm' # better npm
 brew 'python'
 brew 'stow' # symlink manager
+brew 'thefuck' # corrects typos in commands
 brew 'watch' # execute a program periodically
 brew 'zsh' # zsh (latest)
 

@@ -1,12 +1,18 @@
 brew 'awscli'
+brew 'azure-cli'
 brew 'golang'
 brew 'gradle'
 brew 'groovy'
 brew 'maven'
+brew 'nats'
 brew 'nats-server'
 
 cask 'apache-directory-studio'
+# cask 'hashicorp-boundary-desktop'
+# cask 'multipass'
 cask 'postman'
 cask 'powershell'
+cask 'session-manager-plugin'
 
 mas 'Microsoft Remote Desktop', id: 1295203466
+mas 'Clocker', id: 1056643111

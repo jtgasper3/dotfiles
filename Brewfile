@@ -51,9 +51,9 @@ mas 'Xcode', id: 497799835
 
 
 # 'whalebrew install'
-# whalebrew "whalebrew/awscli"
-# whalebrew "whalebrew/terraform"
-# whalebrew "whalebrew/wget"
+# whalebrew 'whalebrew/awscli'
+# whalebrew 'whalebrew/terraform'
+# whalebrew 'whalebrew/wget'
 
 # 'vscode --install-extension'
 vscode 'GitHub.codespaces'

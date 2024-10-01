@@ -33,6 +33,7 @@ cd $HOME/.dotfiles || exit 1
 stow stow
 stow zsh
 stow aws
+stow continue
 stow docker
 stow git
 stow gnupg

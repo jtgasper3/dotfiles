@@ -55,3 +55,13 @@ done
 source ~/.zshrc.local
 
 # Anything below here was probably added automatically and should be re-adjusted or moved to ~/.zshrc.local
+
+source ~/.sdkman/bin/sdkman-init.sh
+
+# pnpm
+export PNPM_HOME="/Users/jtgasper3/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end

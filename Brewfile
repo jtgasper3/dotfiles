@@ -36,7 +36,7 @@ cask 'ollama' # local AI
 cask 'sourcetree' # git UI
 cask 'syncthing'
 cask 'todoist'
-cask 'veracrypt'
+cask 'veracrypt-fuse-t'
 cask 'visual-studio-code'
 cask 'zoom'
 

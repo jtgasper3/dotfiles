@@ -13,3 +13,5 @@
 	excludesfile = /Users/jtgasper3/.gitignore_global
 [commit]
 	template = /Users/jtgasper3/.stCommitMsg
+[init]
+	defaultBranch = main
